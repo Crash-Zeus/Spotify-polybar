@@ -1,4 +1,4 @@
-# Vpn Polybar
+# Spotify Polybar
 
 Module for polybar to display spotify song status using playerctl
 
